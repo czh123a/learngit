@@ -9,3 +9,5 @@ ok！
 好客山东欢迎您！
 
 下午好！
+
+Creating a new branch is quick AND simple.
